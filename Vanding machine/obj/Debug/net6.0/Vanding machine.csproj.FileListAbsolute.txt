@@ -1,0 +1,15 @@
+C:\Users\phamp\OneDrive\Documents\Vanding machine\bin\Debug\net6.0\Vanding machine.exe
+C:\Users\phamp\OneDrive\Documents\Vanding machine\bin\Debug\net6.0\Vanding machine.deps.json
+C:\Users\phamp\OneDrive\Documents\Vanding machine\bin\Debug\net6.0\Vanding machine.runtimeconfig.json
+C:\Users\phamp\OneDrive\Documents\Vanding machine\bin\Debug\net6.0\Vanding machine.dll
+C:\Users\phamp\OneDrive\Documents\Vanding machine\bin\Debug\net6.0\Vanding machine.pdb
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.csproj.AssemblyReference.cache
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.AssemblyInfoInputs.cache
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.AssemblyInfo.cs
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.csproj.CoreCompileInputs.cache
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.dll
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\refint\Vanding machine.dll
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.pdb
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\Vanding machine.genruntimeconfig.cache
+C:\Users\phamp\OneDrive\Documents\Vanding machine\obj\Debug\net6.0\ref\Vanding machine.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vanding machine", "Vanding machine.csproj", "{FBD97122-E316-4512-B1C7-931E85F51EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD97122-E316-4512-B1C7-931E85F51EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD97122-E316-4512-B1C7-931E85F51EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD97122-E316-4512-B1C7-931E85F51EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD97122-E316-4512-B1C7-931E85F51EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5811DB-EB7D-4BA1-989C-B5EB1EADCD3D}
+	EndGlobalSection
+EndGlobal
