@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/vending-machine.git
+git clone https://github.com/Phamphe/vending-machine.git
 Navigate to the Project:
 
 bash
